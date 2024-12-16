@@ -13,4 +13,3 @@ function y() {
 	rm -f -- "$tmp"
 }
 
-# alias neofetch='neofetch --source ~/neofetch_logo.txt'
